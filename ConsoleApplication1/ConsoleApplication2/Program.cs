@@ -13,7 +13,10 @@ namespace ConsoleApplication2
             int sayi1 = 5;
             int sayi2 = 4;
             int toplam = sayi1 + sayi2;
+            int carp = sayi1 * sayi2;
             Console.Write(toplam);
+            Console.Write(carp);
+
         }
     }
 }
